@@ -1,0 +1,8 @@
+﻿  Building 'CoWorkerSys' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping Debug\CoWorkerSys.inf
+  Stamping [Version] section with DriverVer=03/17/2022,21.21.53.893
+  CoWorker.c
+BufferOverflowFastFailK.lib(gs_driverentry.obj) : error LNK2019: 无法解析的外部符号 _DriverEntry@8，函数 _GsDriverEntry@8 中引用了该符号
+    已定义且可能匹配的符号上的提示:
+      _DriverEntry@12
+E:\Vstudio2019\WindowsKernelStudy\Debug\CoWorkerSys.sys : fatal error LNK1120: 1 个无法解析的外部命令

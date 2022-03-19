@@ -1,0 +1,3 @@
+﻿  CoWorkerUser.cpp
+E:\Vstudio2019\WindowsKernelStudy\CoWorkerUser\CoWorkerUser.cpp(31,5): warning C4267: “参数”: 从“size_t”转换到“DWORD”，可能丢失数据
+  CoWorkerUser.vcxproj -> E:\Vstudio2019\WindowsKernelStudy\x64\Debug\CoWorkerUser.exe

@@ -1,0 +1,18 @@
+﻿  Building 'CoWorkerSys' with toolset 'WindowsKernelModeDriver10.0' and the 'Desktop' target platform.
+  Stamping x64\Debug\CoWorkerSys.inf
+  Stamping [Version] section with DriverVer=03/18/2022,9.31.30.152
+  CoWorkerSys.vcxproj -> E:\Vstudio2019\WindowsKernelStudy\x64\Debug\CoWorkerSys.sys
+  .........................
+  Signability test complete.
+  
+  Errors:
+  None
+  
+  Warnings:
+  None
+  
+  Catalog generation complete.
+  E:\Vstudio2019\WindowsKernelStudy\x64\Debug\CoWorkerSys\coworkersys.cat
+  Done Adding Additional Store
+  Successfully signed: E:\Vstudio2019\WindowsKernelStudy\x64\Debug\CoWorkerSys\coworkersys.cat
+  
